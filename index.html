@@ -1,154 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WSR | Weekly Strategic Roundtable</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Roboto', sans-serif;
-      background-color: #0b0f14;
-      color: #e0e0e0;
-    }
-    header {
-      background: linear-gradient(90deg, #0b0f14, #1a2634);
-      padding: 20px 40px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid #2c3e50;
-    }
-    header h1 {
-      font-family: 'Playfair Display', serif;
-      font-size: 28px;
-      color: #c5a46d;
-    }
-    nav a {
-      margin-left: 20px;
-      color: #e0e0e0;
-      text-decoration: none;
-      font-size: 14px;
-    }
-    nav a:hover {
-      color: #c5a46d;
-    }
-    .hero {
-      padding: 100px 40px;
-      text-align: center;
-      background: url('https://images.unsplash.com/photo-1526378722370-6f4a7b7a7b0d') center/cover;
-    }
-    .hero h2 {
-      font-size: 40px;
-      font-family: 'Playfair Display', serif;
-      color: #ffffff;
-    }
-    .hero p {
-      max-width: 700px;
-      margin: 20px auto;
-      font-size: 16px;
-      color: #d0d0d0;
-    }
-    .section {
-      padding: 60px 40px;
-    }
-    .section h3 {
-      font-family: 'Playfair Display', serif;
-      color: #c5a46d;
-      margin-bottom: 20px;
-    }
-    .cards {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
-    .card {
-      background-color: #141c24;
-      padding: 20px;
-      border: 1px solid #2c3e50;
-      border-radius: 8px;
-    }
-    .card h4 {
-      color: #ffffff;
-    }
-    .footer {
-      text-align: center;
-      padding: 20px;
-      border-top: 1px solid #2c3e50;
-      font-size: 12px;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WSR | Weekly Strategic Roundtable</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+body{margin:0;font-family:'Inter',sans-serif;background:#0b0f14;color:#e6e6e6}
+header{display:flex;justify-content:space-between;align-items:center;padding:18px 40px;background:#0b0f14;border-bottom:1px solid #1f2a36}
+header h1{font-family:'Playfair Display';color:#c5a46d;margin:0}
+nav a{margin-left:20px;color:#ccc;text-decoration:none;font-size:14px}
+nav a:hover{color:#c5a46d}
+.hero{padding:100px 30px;text-align:center;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.8)),url('https://images.unsplash.com/photo-1541845157-a6d2d100c931') center/cover}
+.hero h2{font-family:'Playfair Display';font-size:44px;margin-bottom:10px}
+.hero p{max-width:700px;margin:auto;color:#ccc}
+.section{padding:60px 40px}
+.section h3{color:#c5a46d;font-family:'Playfair Display'}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.card{background:#141c24;padding:20px;border:1px solid #243241;border-radius:10px}
+.card h4{margin:0 0 10px;color:#fff}
+.card p{font-size:14px;color:#bbb}
+.editorial{background:#101820;border:1px solid #243241;padding:20px;border-radius:10px}
+.footer{padding:30px;text-align:center;font-size:13px;border-top:1px solid #1f2a36;color:#aaa}
+</style>
 </head>
+
 <body>
 
 <header>
-  <h1>WSR</h1>
-  <nav>
-    <a href="#about">About</a>
-    <a href="#focus">Focus Areas</a>
-    <a href="#publications">Publications</a>
-    <a href="#contact">Contact</a>
-  </nav>
+<h1>WSR</h1>
+<nav>
+<a href="#about">About</a>
+<a href="#focus">Focus</a>
+<a href="#publications">Publications</a>
+<a href="#editorial">Editorial Board</a>
+<a href="#contact">Contact</a>
+</nav>
 </header>
 
 <section class="hero">
-  <h2>Weekly Strategic Roundtable</h2>
-  <p>An independent strategic think tank focusing on geopolitical analysis, military strategy, and national security discourse.</p>
+<h2>Weekly Strategic Roundtable</h2>
+<p>A premier academic and strategic platform for discourse on geopolitics, military affairs, and national security.</p>
 </section>
 
 <section class="section" id="about">
-  <h3>About WSR</h3>
-  <p>WSR (Weekly Strategic Roundtable) is a platform for academic and policy-oriented discussions on contemporary strategic affairs. It brings together scholars, practitioners, and analysts to deliberate on evolving global and regional security dynamics.</p>
+<h3>About WSR</h3>
+<p>The Weekly Strategic Roundtable (WSR) is an academic think tank platform dedicated to critical analysis of global and regional strategic affairs. It brings together scholars, researchers, and practitioners to engage in meaningful discourse on contemporary security challenges.</p>
 </section>
 
 <section class="section" id="focus">
-  <h3>Focus Areas</h3>
-  <div class="cards">
-    <div class="card">
-      <h4>Geopolitics</h4>
-      <p>Analysis of global power shifts, regional conflicts, and diplomatic strategies.</p>
-    </div>
-    <div class="card">
-      <h4>Military Strategy</h4>
-      <p>Study of modern warfare, defense doctrines, and tactical innovations.</p>
-    </div>
-    <div class="card">
-      <h4>Information Warfare</h4>
-      <p>Understanding narratives, psychological operations, and cyber influence.</p>
-    </div>
-    <div class="card">
-      <h4>National Security</h4>
-      <p>Policy discussions on internal and external security challenges.</p>
-    </div>
-  </div>
+<h3>Focus Areas</h3>
+<div class="grid">
+<div class="card"><h4>Geopolitics</h4><p>Strategic shifts, regional conflicts, and global power transitions.</p></div>
+<div class="card"><h4>Military Strategy</h4><p>Modern warfare doctrines, defense systems, and tactical evolution.</p></div>
+<div class="card"><h4>Information Warfare</h4><p>Influence operations, narratives, and cyber strategy.</p></div>
+<div class="card"><h4>National Security</h4><p>Internal and external security policy analysis.</p></div>
+</div>
 </section>
 
 <section class="section" id="publications">
-  <h3>Publications</h3>
-  <div class="cards">
-    <div class="card">
-      <h4>Weekly Briefs</h4>
-      <p>Concise strategic updates on global and regional developments.</p>
-    </div>
-    <div class="card">
-      <h4>Research Papers</h4>
-      <p>In-depth academic research on security and geopolitical issues.</p>
-    </div>
-    <div class="card">
-      <h4>Opinion Articles</h4>
-      <p>Expert perspectives on current affairs and strategic trends.</p>
-    </div>
-  </div>
+<h3>Publications</h3>
+<div class="grid">
+<div class="card"><h4>Weekly Briefs</h4><p>Short strategic updates on global developments.</p></div>
+<div class="card"><h4>Research Papers</h4><p>Peer-oriented academic research contributions.</p></div>
+<div class="card"><h4>Opinion & Analysis</h4><p>Expert commentary on current geopolitical issues.</p></div>
+</div>
+</section>
+
+<section class="section" id="editorial">
+<h3>Editorial Board</h3>
+<div class="editorial">
+<p><strong>Editor-in-Chief:</strong> Prof. Bharti Chauhan</p>
+<p><strong>Guest Editor:</strong> Prof. Rakesh Chandra Singh Kunwar</p>
+<p><strong>Managing Editor:</strong> Saurabh Singh</p>
+<p><strong>Copy Editor:</strong> Pramod Kumar</p>
+<p><strong>Publisher:</strong> Weekly Strategic Roundtable, Birla Campus, HNB Garhwal University, Srinagar Garhwal, 246174</p>
+</div>
 </section>
 
 <section class="section" id="contact">
-  <h3>Contact</h3>
-  <p>Email: contact@strategiaonline.in</p>
+<h3>Contact</h3>
+<p>Email: contact@strategiaonline.in</p>
 </section>
 
 <div class="footer">
-  © 2026 WSR | Weekly Strategic Roundtable | StrategiaOnline
+© 2026 Weekly Strategic Roundtable (WSR) | StrategiaOnline
 </div>
 
 </body>
