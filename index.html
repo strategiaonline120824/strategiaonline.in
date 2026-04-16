@@ -7,64 +7,77 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 
 <style>
-body{margin:0;font-family:'Inter',sans-serif;background:#0b0f14;color:#e6e6e6}
-header{display:flex;justify-content:space-between;align-items:center;padding:18px 40px;background:#0b0f14;border-bottom:1px solid #1f2a36}
-header h1{font-family:'Playfair Display';color:#c5a46d;margin:0}
-nav a{margin-left:20px;color:#ccc;text-decoration:none;font-size:14px}
-nav a:hover{color:#c5a46d}
-.hero{padding:100px 30px;text-align:center;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.8)),url('https://images.unsplash.com/photo-1541845157-a6d2d100c931') center/cover}
-.hero h2{font-family:'Playfair Display';font-size:44px;margin-bottom:10px}
-.hero p{max-width:700px;margin:auto;color:#ccc}
+body{margin:0;font-family:'Inter',sans-serif;background:#f5f7fa;color:#222}
+header{background:#ffffff;border-bottom:1px solid #ddd;padding:15px 40px}
+.topbar{display:flex;align-items:center;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-circle{width:45px;height:45px;border-radius:50%;background:#2c6e91;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:bold;font-size:18px}
+.logo-text{font-family:'Playfair Display';font-size:22px;color:#2c6e91}
+.subtitle{font-size:12px;color:#555}
+nav{margin-top:10px}
+nav a{margin-right:25px;color:#333;text-decoration:none;font-size:14px;font-weight:500}
+nav a:hover{color:#2c6e91}
+.hero{padding:80px 30px;text-align:center;background:#e9eef3}
+.hero h2{font-family:'Playfair Display';font-size:36px;margin-bottom:10px}
+.hero p{max-width:700px;margin:auto;color:#555}
 .section{padding:60px 40px}
-.section h3{color:#c5a46d;font-family:'Playfair Display'}
+.section h3{color:#2c6e91;font-family:'Playfair Display'}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
-.card{background:#141c24;padding:20px;border:1px solid #243241;border-radius:10px}
-.card h4{margin:0 0 10px;color:#fff}
-.card p{font-size:14px;color:#bbb}
-.editorial{background:#101820;border:1px solid #243241;padding:20px;border-radius:10px}
-.footer{padding:30px;text-align:center;font-size:13px;border-top:1px solid #1f2a36;color:#aaa}
+.card{background:#ffffff;padding:20px;border:1px solid #ddd;border-radius:8px}
+.card h4{margin:0 0 10px;color:#222}
+.card p{font-size:14px;color:#555}
+.editorial{background:#ffffff;border:1px solid #ddd;padding:20px;border-radius:8px}
+.footer{padding:30px;text-align:center;font-size:13px;border-top:1px solid #ddd;color:#666;background:#fff}
 </style>
 </head>
 
 <body>
 
 <header>
-<h1>WSR</h1>
+<div class="topbar">
+<div class="logo">
+<div class="logo-circle">WSR</div>
+<div>
+<div class="logo-text">Weekly Strategic Roundtable</div>
+<div class="subtitle">Ideas • Forums • Leadership • Impact</div>
+</div>
+</div>
+</div>
 <nav>
-<a href="#about">About</a>
-<a href="#focus">Focus</a>
-<a href="#publications">Publications</a>
-<a href="#editorial">Editorial Board</a>
-<a href="#contact">Contact</a>
+<a href="#">RESEARCH</a>
+<a href="#focus">CENTRES</a>
+<a href="#publications">FORUMS</a>
+<a href="#">EVENTS</a>
+<a href="#about">ABOUT US</a>
 </nav>
 </header>
 
 <section class="hero">
-<h2>Weekly Strategic Roundtable</h2>
-<p>A premier academic and strategic platform for discourse on geopolitics, military affairs, and national security.</p>
+<h2>Advancing Strategic Thought & Policy Discourse</h2>
+<p>An academic think tank focused on geopolitics, military affairs, and national security.</p>
 </section>
 
 <section class="section" id="about">
 <h3>About WSR</h3>
-<p>The Weekly Strategic Roundtable (WSR) is an academic think tank platform dedicated to critical analysis of global and regional strategic affairs. It brings together scholars, researchers, and practitioners to engage in meaningful discourse on contemporary security challenges.</p>
+<p>The Weekly Strategic Roundtable (WSR) is a platform dedicated to critical strategic discourse, bringing together scholars and practitioners to examine evolving geopolitical and security challenges.</p>
 </section>
 
 <section class="section" id="focus">
-<h3>Focus Areas</h3>
+<h3>Centres of Study</h3>
 <div class="grid">
-<div class="card"><h4>Geopolitics</h4><p>Strategic shifts, regional conflicts, and global power transitions.</p></div>
-<div class="card"><h4>Military Strategy</h4><p>Modern warfare doctrines, defense systems, and tactical evolution.</p></div>
-<div class="card"><h4>Information Warfare</h4><p>Influence operations, narratives, and cyber strategy.</p></div>
-<div class="card"><h4>National Security</h4><p>Internal and external security policy analysis.</p></div>
+<div class="card"><h4>Geopolitics</h4><p>Global power dynamics and regional strategic shifts.</p></div>
+<div class="card"><h4>Military Affairs</h4><p>Defense systems, doctrine, and modern warfare analysis.</p></div>
+<div class="card"><h4>Information Warfare</h4><p>Narratives, influence operations, and cyber strategy.</p></div>
+<div class="card"><h4>Security Studies</h4><p>Policy-oriented research on national security issues.</p></div>
 </div>
 </section>
 
 <section class="section" id="publications">
-<h3>Publications</h3>
+<h3>Research & Publications</h3>
 <div class="grid">
-<div class="card"><h4>Weekly Briefs</h4><p>Short strategic updates on global developments.</p></div>
-<div class="card"><h4>Research Papers</h4><p>Peer-oriented academic research contributions.</p></div>
-<div class="card"><h4>Opinion & Analysis</h4><p>Expert commentary on current geopolitical issues.</p></div>
+<div class="card"><h4>Weekly Briefs</h4><p>Strategic updates on global developments.</p></div>
+<div class="card"><h4>Research Papers</h4><p>Academic and policy research contributions.</p></div>
+<div class="card"><h4>Commentary</h4><p>Expert insights and analysis on current issues.</p></div>
 </div>
 </section>
 
@@ -85,7 +98,7 @@ nav a:hover{color:#c5a46d}
 </section>
 
 <div class="footer">
-© 2026 Weekly Strategic Roundtable (WSR) | StrategiaOnline
+© 2026 Weekly Strategic Roundtable (WSR)
 </div>
 
 </body>
