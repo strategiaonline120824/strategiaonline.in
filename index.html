@@ -593,6 +593,98 @@
 
     .newsletter-form button:hover { background: var(--gold-light); color: var(--navy); }
 
+    /* ─── EDITORIAL BOARD ─── */
+    .editorial-board {
+      background: var(--cream);
+      width: 100%;
+    }
+
+    .editorial-board .section-title { margin-bottom: 48px; }
+
+    .editorial-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2px;
+      width: 100%;
+    }
+
+    .editorial-card {
+      background: var(--white);
+      border-left: 3px solid var(--accent);
+      padding: 28px 32px;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .editorial-card:last-child {
+      grid-column: 1 / -1;
+    }
+
+    .editorial-card:hover {
+      border-left-color: var(--accent-bright);
+      box-shadow: 0 4px 20px rgba(26,45,110,0.08);
+    }
+
+    .editorial-role {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    .editorial-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--navy);
+    }
+
+    .editorial-card.publisher-card .editorial-name {
+      font-size: 14px;
+      font-weight: 400;
+      font-family: 'Source Sans 3', sans-serif;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* ─── CONTACT ─── */
+    .contact-section {
+      background: var(--navy);
+      width: 100%;
+      text-align: center;
+    }
+
+    .contact-section .section-label { justify-content: center; }
+    .contact-section .section-label::after { display: none; }
+    .contact-section .section-title { color: var(--white); margin-bottom: 28px; }
+
+    .contact-email {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      padding: 18px 40px;
+      border: 1px solid rgba(99,137,245,0.4);
+      color: var(--accent-bright);
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 1px;
+      text-decoration: none;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .contact-email:hover {
+      background: rgba(99,137,245,0.1);
+      border-color: var(--accent-bright);
+    }
+
+    .contact-email svg {
+      width: 18px; height: 18px;
+      stroke: var(--accent-bright);
+      fill: none;
+      stroke-width: 1.5;
+    }
+
     /* ─── FOOTER ─── */
     footer {
       background: var(--navy);
@@ -725,7 +817,7 @@
       <li><a href="#centres">Centres</a></li>
       <li><a href="#forums">Forums</a></li>
       <li><a href="#events">Events</a></li>
-      <li><a href="#about">About Us</a></li>
+      <li><a href="#editorial">About Us</a></li>
     </ul>
   </nav>
 
@@ -952,6 +1044,44 @@
       <input type="email" placeholder="Your email address" />
       <button type="submit">Subscribe</button>
     </form>
+  </section>
+
+  <!-- EDITORIAL BOARD -->
+  <section class="editorial-board" id="editorial">
+    <div class="section-label">About Us</div>
+    <h2 class="section-title">Editorial Board</h2>
+    <div class="editorial-grid">
+      <div class="editorial-card">
+        <div class="editorial-role">Editor-in-Chief</div>
+        <div class="editorial-name">Prof. Bharti Chauhan</div>
+      </div>
+      <div class="editorial-card">
+        <div class="editorial-role">Guest Editor</div>
+        <div class="editorial-name">Prof. Rakesh Chandra Singh Kunwar</div>
+      </div>
+      <div class="editorial-card">
+        <div class="editorial-role">Managing Editor</div>
+        <div class="editorial-name">Saurabh Singh</div>
+      </div>
+      <div class="editorial-card">
+        <div class="editorial-role">Copy Editor</div>
+        <div class="editorial-name">Pramod Kumar</div>
+      </div>
+      <div class="editorial-card publisher-card">
+        <div class="editorial-role">Publisher</div>
+        <div class="editorial-name">Weekly Strategic Roundtable, Birla Campus, HNB Garhwal University, Srinagar Garhwal, Uttarakhand — 246174</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact-section" id="contact">
+    <div class="section-label">Get In Touch</div>
+    <h2 class="section-title">Contact Us</h2>
+    <a href="mailto:wsr.120824@gmail.com" class="contact-email">
+      <svg viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      wsr.120824@gmail.com
+    </a>
   </section>
 
   <footer>
