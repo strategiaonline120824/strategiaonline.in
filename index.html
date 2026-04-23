@@ -32,6 +32,7 @@
       background: var(--white);
       color: var(--text-dark);
       overflow-x: hidden;
+      width: 100%;
     }
 
     /* ─── NAVBAR ─── */
@@ -262,7 +263,7 @@
     }
 
     /* ─── SECTION COMMONS ─── */
-    section { padding: 100px 80px; }
+    section { padding: 100px 80px; width: 100%; box-sizing: border-box; }
 
     .section-label {
       font-size: 11px;
@@ -300,6 +301,7 @@
       grid-template-columns: 1fr 1fr;
       gap: 80px;
       align-items: center;
+      width: 100%;
     }
 
     .about-text p {
@@ -362,6 +364,7 @@
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 2px;
+      width: 100%;
     }
 
     .card {
@@ -438,6 +441,7 @@
       gap: 1px;
       margin-top: 56px;
       background: rgba(99,137,245,0.2);
+      width: 100%;
     }
 
     .centre-item {
@@ -710,7 +714,8 @@
   <nav>
     <a href="#" class="nav-brand">
       <div class="nav-logo-icon">
-    <img src=<img src="logo.jpg" alt="WSR Logo"/> 
+        <img src="logo.jpg" alt="WSR Logo" />
+      </div>
       <div class="nav-wordmark">
         <span class="tagline"> WSR| Weekly Strategic Roundtable</span>
       </div>
