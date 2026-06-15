@@ -426,6 +426,46 @@
     }
 
     .card-link::after { content: '→'; }
+    
+    /* ─── JOURNAL ─── */
+.journal { background: var(--white); }
+.journal-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+  margin-top: 48px;
+  background: rgba(46,75,181,0.15);
+}
+.journal-item {
+  background: var(--cream);
+  padding: 32px 28px;
+  border-top: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+.journal-item:hover {
+  border-top-color: var(--accent);
+  background: var(--white);
+}
+.journal-item h4 {
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.journal-item p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-dark);
+}
+@media (max-width: 1024px) {
+  .journal-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 768px) {
+  .journal-grid { grid-template-columns: 1fr; }
+}
 
     /* ─── CENTRES ─── */
     .centres {
@@ -940,6 +980,36 @@
       </div>
     </div>
   </section>
+  <!-- JOURNAL -->
+<section class="journal" id="journal">
+  <div class="section-label">Our Publication</div>
+  <h2 class="section-title">Strategia</h2>
+  <p style="font-size:17px; line-height:1.8; color:#3a4a60; max-width:780px; margin-top:24px;">
+    Strategia is the flagship academic journal of the Weekly Strategic Roundtable, featuring scholarly contributions on strategic affairs, defence, and security studies.
+  </p>
+  <div class="journal-grid">
+    <div class="journal-item">
+      <h4>Starting Year</h4>
+      <p>2025</p>
+    </div>
+    <div class="journal-item">
+      <h4>Frequency</h4>
+      <p>Biennial</p>
+    </div>
+    <div class="journal-item">
+      <h4>Format of Publication</h4>
+      <p>Online / Print</p>
+    </div>
+    <div class="journal-item">
+      <h4>Language</h4>
+      <p>Hindi / English</p>
+    </div>
+    <div class="journal-item" style="grid-column: 1 / -1;">
+      <h4>Subject Areas</h4>
+      <p>Defence Strategic Studies, International Affairs, National Security, Military Related Aspects</p>
+    </div>
+  </div>
+</section>
 
   <!-- CENTRES -->
   <section class="centres" id="centres">
