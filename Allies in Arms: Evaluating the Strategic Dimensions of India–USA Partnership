@@ -1,1 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Allies in Arms: Evaluating the Strategic Dimensions of India–USA Partnership | WSR</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet" />
+<style>
+:root {
+  --navy: #1a2d6e;
+  --accent: #4169e1;
+  --accent-bright: #6589f5;
+  --cream: #f0f4ff;
+  --text-dark: #0e1a45;
+  --text-muted: #4a5a8a;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  color: var(--text-dark);
+  line-height: 1.8;
+}
+.article-nav {
+  padding: 24px 48px;
+  border-bottom: 3px solid var(--accent);
+}
+.article-nav a {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--navy);
+  text-decoration: none;
+}
+.article-wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 80px 24px 120px;
+}
+.article-tag {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.article-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(28px, 4vw, 42px);
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+.article-meta {
+  font-size: 18px;
+  color: var(--text-muted);
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(46,75,181,0.2);
+}
+.article-body p {
+  font-size: 17px;
+  color: #3a4a60;
+  margin-bottom: 24px;
+  text-align: justify;
+}
+.article-body h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  color: var(--navy);
+  margin: 40px 0 16px;
+}
+.article-body h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 19px;
+  color: var(--navy);
+  margin: 28px 0 12px;
+}
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0 32px;
+  font-size: 15px;
+}
+.article-body th, .article-body td {
+  border: 1px solid rgba(46,75,181,0.2);
+  padding: 10px 14px;
+  text-align: left;
+  vertical-align: top;
+}
+.article-body th {
+  background: var(--cream);
+  color: var(--navy);
+  font-weight: 600;
+}
+.article-body ul.recommendations {
+  padding-left: 20px;
+  font-size: 17px;
+  color: #3a4a60;
+  margin-bottom: 24px;
+}
+.article-body ul.recommendations li {
+  margin-bottom: 18px;
+  text-align: justify;
+}
+</style>
+</head>
+<body>
+
+<div class="article-nav">
+  <a href="index.html">&larr; Back to WSR Home</a>
+</div>
+
+<div class="article-wrap">
+  <div class="article-tag">Strategic Partnerships</div>
+  <h1 class="article-title">Allies in Arms: Evaluating the Strategic Dimensions of India&ndash;USA Partnership</h1>
+  <div class="article-meta">Pragati &middot; 2025</div>
+
+  <div class="article-body">
+
+    <h2>Introduction</h2>
+    <p>
+      Over the past decade, India&ndash;US defence ties have evolved from a tentative engagement to a highly integrated partnership. While explicitly &ldquo;not an alliance,&rdquo; India and the US have evolved into what analysts describe as &ldquo;a deep partnership&hellip; in the defence and security domains.&rdquo; This shift reflects converging strategic concerns: both capitals view a stable, rules-based Indo-Pacific as essential, with India serving as a democratic counterweight to China. US leaders now cast India as a potential &ldquo;rule-shaper&rdquo; in the region. High-level engagements &ndash; for example, Prime Minister Modi&rsquo;s state visit to Washington (June 2023) &ndash; underscore this closeness. In 2025, the two countries signed a new ten-year Defence Partnership Framework, hailed by India&rsquo;s Defence Minister as a &ldquo;new chapter&rdquo; with defence as a &ldquo;major pillar&rdquo; of bilateral ties.
+    </p>
+    <p>
+      Yet, this growing synergy must be understood through established theories of international relations. From a Neorealist and Balance of Power lens, this partnership reflects a convergence driven by shared concerns about China's assertiveness. Both states, while lacking a formal alliance, increasingly act as strategic balancers in the Indo-Pacific. India&rsquo;s evolving role fits the theoretical expectation of rising powers counterbalancing regional hegemons. The Strategic Autonomy framework remains central to India&rsquo;s foreign policy calculus, explaining its nuanced alignment strategy that resists binding commitments while engaging deeply in practical cooperation. Hedging Theory best captures India&rsquo;s dual-track approach: India collaborates with the US on military modernisation and maritime domain awareness while maintaining ties with Russia and other global institutions.
+    </p>
+    <p>
+      Theoretically grounded, this paper evaluates the effectiveness, limits, and implications of this defence partnership from 2015 to 2025. It examines the extent to which alliance-strength cooperation has become a reality and identifies the remaining strategic, doctrinal, and operational gaps. Additionally, it examines how India&ndash;US cooperation impacts China's strategic calculus, informs India's two-front threat scenario, and shapes naval posture in the South China Sea. Finally, it questions whether the current US-China containment strategy aligns perfectly with India's long-term interests and evaluates India&rsquo;s broader global governance contributions, including its role in UN peacekeeping. These analyses are supported by both Indian and Western sources to ensure rigour and balance.
+    </p>
+
+    <h2>Concepts and Hypotheses</h2>
+    <p>
+      We conceptualise the India&ndash;US relationship through the lens of strategic partnership vs. formal alliance. Although formally non-allied, the relationship exhibits many alliance-like elements (defence cooperation agreements, joint planning, integrated exercises). We focus on the concepts of &ldquo;interoperability&rdquo; (the ability of forces to operate together) and &ldquo;strategic autonomy&rdquo; (India&rsquo;s independent policy choices) as key variables.
+    </p>
+    <p>
+      Our primary hypothesis is: deeper institutional linkages (foundational pacts, joint exercises, working groups) increase military interoperability and strategic convergence, thereby enhancing regional deterrence. However, this effect is moderated by India&rsquo;s autonomy stance: in areas where India asserts independence (for example, non-alignment on contentious issues or restricted technology sharing), there will be limits on how &ldquo;ally-like&rdquo; the partnership can become. In other words, we test the proposition that while concrete defence collaboration continues to rise, fundamental divergences (e.g. on Russia, China, non-intervention norms) will persist and temper the alliance-like closeness.
+    </p>
+
+    <h2>Research Design</h2>
+    <p>
+      We adopt a qualitative policy-analysis approach. Our data sources include official documents, reputable media reports, and analyses from think tanks. We draw on Indian and international sources, as well as strategic institutes.
+    </p>
+    <p>
+      Developments are traced chronologically (2015&ndash;2025) to capture the evolution of the partnership. A thematic analysis identifies recurring issues (technology transfer and autonomy) and outcomes (exercise frequency and arms trade volume). We use case studies of representative activities &ndash; notably the Malabar naval exercise, the Yudh Abhyas army drill, and the operational impact of BECA &ndash; to illustrate practical effects. Throughout, we compare stated policy goals with observed outcomes. Where possible, we draw on primary quotations for illustration; however, our overall aim is to present an evaluative narrative, identifying what has worked, what has not, and why.
+    </p>
+
+    <h2>Findings</h2>
+
+    <h3>Defence Dialogues and Agreements (2015&ndash;2025)</h3>
+    <p>
+      Between 2015 and 2025, India and the US systematically built a comprehensive defence framework. A key turning point was the 2015 Framework for Defence Cooperation, in which leaders pledged to deepen their collaboration. At the 2016 summit, President Obama announced India as a Major Defence Partner, a status that facilitates technology transfer. In that meeting, the two sides finalised the Logistics Exchange Memorandum of Agreement (LEMOA), allowing &ldquo;reciprocal access to each other&rsquo;s bases for logistics support.&rdquo; LEMOA significantly enhances operational interoperability. In 2018, the annual 2+2 ministerial approved COMCASA (Communications Compatibility and Security Agreement), enabling the sale of advanced encrypted communication systems to India. The third foundational pact was BECA (Basic Exchange and Cooperation Agreement), signed in October 2020. BECA grants India access to US geospatial and targeting data, &ldquo;dramatically increasing the precision of Indian weapons systems.&rdquo; At signing, an Indian official noted that BECA provides the military &ldquo;a high-quality GPS&rdquo; and real-time satellite imagery, vastly boosting the accuracy of automated strike systems. Together with India&rsquo;s 2002 GSOMIA (General Security of Military Information Agreement), LEMOA, COMCASA, and BECA form a troika of defence pacts that institutionalise key interoperability functions in logistics, communications, and navigation. These once-lengthy negotiations are now in effect, firmly linking Indian and US forces in peacetime support.
+    </p>
+    <p>
+      In summary, the period from 2015 to 2025 witnessed substantial institutional layering, as foundational pacts were supplemented by industrial and supply-chain accords. Regular dialogues have translated broad strategic visions into concrete defence projects. As one official noted, these arrangements provide &ldquo;policy direction to the entire spectrum of the India&ndash;US defence relationship,&rdquo; reflecting growing strategic convergence. At the same time, each country has kept its autonomy: none of these frameworks entails an entangling alliance commitment. Indian leaders consistently frame each pact in terms of practical utility rather than mutual defence. Thus, India&ndash;US dialogues and agreements have greatly expanded cooperation &ndash; effectively making them de facto &ldquo;allies in arms&rdquo; &ndash; while still accommodating India&rsquo;s strategic independence.
+    </p>
+
+    <h3>Joint Exercises and Operational Integration</h3>
+    <p>
+      Parallel to diplomatic pacts, military-to-military engagement has surged. Combined exercises now span all service branches and extreme scenarios &ndash; from large-scale carrier operations to arctic warfare. Indeed, India now conducts more military exercises and officer exchanges with the US than with any other country. This reflects a deliberate drive to build familiarity and readiness between the two forces.
+    </p>
+    <p>
+      Naval cooperation exemplifies this trend. Exercise Malabar, initiated in 1992 as a small bilateral drill, has evolved into a premier Quadrilateral naval exercise. By 2025, it routinely involves the aircraft carriers, destroyers, nuclear submarines, and P-8 maritime patrol aircraft of the US, India, Japan, and (since 2020) Australia. Recent Malabar editions have taken place in both the Indian Ocean and the Pacific (e.g., off Guam) and have tested anti-submarine warfare, maritime patrol, carrier-strike operations, and joint flight-deck drills. Analysts call Malabar &ldquo;an abiding symbol of warming strategic ties between New Delhi, Washington, and Tokyo.&rdquo; India&rsquo;s consistent participation signals its commitment to collective maritime security, while the US views Malabar as advancing the goal of a &ldquo;free and open Indo-Pacific&rdquo; by strengthening India&rsquo;s naval capabilities. Importantly, Malabar&rsquo;s scope has expanded without provoking India&rsquo;s neighbours: it is explicitly framed for regional stability, not aimed at any one country. Overall, Malabar demonstrates that the two navies can conduct complex, large-scale operations together &ndash; a clear operational alignment.
+    </p>
+    <p>
+      On land and in the air, exercises have similarly intensified. Exercise Yudh Abhyas (India&ndash;US Army) has become a flagship collaboration. By 2025 it had reached its 21st edition, alternating annually between India and the US. The 2024 exercise was the largest yet, and Yudh Abhyas 2025 in Alaska involved about 450 Indian and 450 American soldiers. Those exercises encompassed brigade-level combined planning and live drills under harsh arctic conditions. In Alaska, Indian and US officers conducted joint command-post exercises to practice combined operational planning, then engaged in field training &ndash; live-fire drills, reconnaissance patrols, counter-IED exercises, and synchronised infantry-artillery-aviation manoeuvres under simulated combat conditions. At the closing ceremony, officers noted the forces &ldquo;worked together&hellip; towards fulfilment of assigned real-world tasks.&rdquo; Yudh Abhyas has even continued through political strains: its 2025 iteration proceeded despite broader diplomatic tensions, with top leaders publicly praising the &ldquo;special&rdquo; defence relationship during the exercise. Such continuity illustrates mutual commitment; official communiqu&eacute;s from both sides emphasise that Yudh Abhyas achieves interoperability goals, with officers working &ldquo;side by side&rdquo; as one unit.
+    </p>
+    <p>
+      Air Force and Special Forces training have also undergone significant advancements. Cope India fighter exercises, which resumed in 2018 after a hiatus, saw the largest-ever edition in 2023. Annual special operations drills, such as Vajra Prahar, continue. In 2019, India and the US launched Tiger Triumph, an unprecedented tri-service disaster-relief exercise including Bangladesh in the Bay of Bengal. Additionally, the armies now exchange specialised teams: joint sniper and counter-IED drills and reciprocal training at counter-insurgency schools build niche interoperability. Frequent ship visits and port calls also occur: for example, US naval vessels now visit Indian ports for resupply and joint training, reflecting growing naval engagement.
+    </p>
+    <p>
+      In summary, military-to-military engagement has surged in depth and breadth. Observers note there is &ldquo;unprecedented consultation and information-sharing&rdquo; and that &ldquo;military exercises have increased in number, frequency, and sophistication.&rdquo; US and Indian forces now regularly train together in combined task forces, joint command posts, and forward bases (under the LEMOA framework). This operational integration elevates mutual understanding: Indian troops gain familiarity with US C4ISR procedures and advanced tactics, while US forces benefit from India&rsquo;s experience in the Indian subcontinent. Equally important, it signals to the region that Washington and New Delhi are prepared to act jointly in credible security scenarios. These findings demonstrate that, in practical terms, the militaries of India and the US are indeed acting as &ldquo;allies in arms&rdquo; &ndash; developing trust and capability interoperability across all domains.
+    </p>
+
+    <h3>Strategic Convergence in the Indo-Pacific</h3>
+    <p>
+      India&ndash;US defence cooperation is deeply intertwined with the broader Indo-Pacific strategy. Washington now views India as a &ldquo;key partner for Indo-Pacific stability&rdquo;: a democratic, growing power that can counterbalance China. In Brookings&rsquo; words, a capable India not only deters China at its borders but also becomes &ldquo;a key security provider in the Indian Ocean region,&rdquo; willing to share the burden. This US vision parallels New Delhi&rsquo;s own concerns about Chinese assertiveness along its borders and in the Indian Ocean.
+    </p>
+    <p>
+      This strategic alignment has translated into multilateral initiatives. India is a founding member of the Quad, and Malabar falls under that framework. Beyond the Quad, India participates in joint drills with other US allies and trilateral partnerships. The two countries also cooperate in freedom-of-navigation operations and share intelligence on Chinese naval movements. They launched the Indo-Pacific Partnership for Maritime Domain Awareness to share sensor data in the Indian Ocean. India also engages with the US-led I2U2 and the Indo-Pacific Economic Framework on technology areas, reflecting overlapping security interests.
+    </p>
+    <p>
+      A particular focus has been on Indian Ocean security. The US explicitly encourages India to take the lead in the Indian Ocean region. Initiatives include joint patrols in the western Indian Ocean, bilateral patrolling agreements, and multilateral engagement through the Indian Ocean Rim Association. One think-tank analysis highlights that India and the US seek to build &ldquo;a network of security-focused collaborations&hellip; [for] intelligence sharing, maritime cooperation, defence industrial ties, [and] technology partnerships&rdquo; across the Indo-Pacific. For example, the 2024 launch of an &ldquo;Indian Ocean Dialogue&rdquo; aims to convene regional navies and coast guards for coordinated responses to shared challenges. These efforts indicate an emerging security architecture in which India is treated as a central partner by Washington.
+    </p>
+    <p>
+      From India&rsquo;s perspective, the US partnership bolsters its own regional ambitions. Being a Major Defence Partner and co-developing technologies clearly reflects India&rsquo;s drive to modernise its military-industrial base. Joint exercises have provided Indian forces with exposure to advanced tactics and platforms, thereby enhancing their capabilities and standards. Indian analysts note growing cooperation in the space, cyber, and missile defence domains under the US partnership. In combination, these developments have enhanced India&rsquo;s defence capabilities and signalled to neighbours that India and the US are synchronised in many security domains.
+    </p>
+
+    <h2>Conclusion</h2>
+    <p>
+      India&ndash;US defence cooperation from 2015 to 2025 has achieved unprecedented depth. The two militaries have moved beyond mere &ldquo;defence diplomacy&rdquo; to form a quasi-strategic alignment across logistics, intelligence sharing, and co-development. The partnership&rsquo;s positive impacts are clear in India&rsquo;s accelerated modernisation and in a stronger collective security posture in the Indo-Pacific.
+    </p>
+    <p>
+      Nevertheless, challenges remain. India must balance its strategic autonomy (particularly historic ties with Russia and a cautious approach in South Asia) against the expectations of an increasingly close American partner. The US must balance its Indo-Pacific focus with sensitivity to India&rsquo;s non-aligned traditions and domestic concerns. On balance, we conclude that while a formal alliance is unlikely in the foreseeable future, India and the US have effectively become &ldquo;allies in arms&rdquo; in functional terms. The partnership has yielded mutual benefits &ndash; from enhanced military capabilities to greater regional deterrence &ndash; and with prudent management it can deepen further. Policymakers should capitalise on this momentum: by following through on agreements, expanding interoperability, and carefully managing the strategic sensitivities that remain, this defence partnership can continue to grow closer, even without a formal treaty. The evidence suggests a close, sustained partnership is both achievable and in the security interests of both democracies.
+    </p>
+
+    <h2>Policy Recommendations</h2>
+    <ul class="recommendations">
+      <li><strong>Accelerate joint technology projects.</strong> Both countries should fast-track co-development initiatives. Finalising the GE&ndash;HAL F414 jet engine co-production deal and expanding INDUS-X innovation projects will bolster India&rsquo;s military self-reliance and US strategic interests. The US should continue easing export controls (building on recent congressional proposals) while India streamlines its co-production approvals. These steps would turn promising agreements into fielded capabilities.</li>
+      <li><strong>Implement pending agreements.</strong> Key pacts must be operationalised quickly. For example, the Security of Supply Arrangement (SOSA), signed in 2024, should be fully implemented to integrate defence supply chains. India and the US should also work toward reciprocal logistics arrangements to maximise the benefits of base access. Rapid follow-through on signed agreements will cement the institutional framework and reduce redundancies.</li>
+      <li><strong>Expand joint exercises and training.</strong> Given the success of Malabar and Yudh Abhyas, both sides should continue raising the complexity and frequency of drills. Introducing new domains &ndash; such as annual cyber defence exercises, space-resilience drills, and joint amphibious operations &ndash; can further institutionalise cooperation. Inviting other Quad partners to additional exercises (e.g., Japan and Australia in extra trilateral drills) would also solidify multilateral interoperability. For instance, routine joint cyber tabletop exercises or combined humanitarian relief drills could prepare both forces for modern contingencies.</li>
+      <li><strong>Leverage Indo-Pacific partnerships.</strong> India and the US should use minilateral forums to anchor defence collaboration. India&rsquo;s full engagement in initiatives such as the Indo-Pacific Maritime Domain Awareness partnership, Quad working groups, and the I2U2 framework should be encouraged. Regular combined naval patrols and search-and-rescue exercises with Japan and Australia, as well as trilateral air patrols, can help share security burdens and reinforce shared objectives. These multilateral platforms provide venues for aligning strategy and distributing responsibility among allies.</li>
+      <li><strong>Manage divergences through dialogue.</strong> Strategic differences (regarding Russia, China, and South Asia) are unlikely to disappear, but they can be mitigated through continued high-level dialogue. The 2+2 process and Track II forums should continue to serve as venues for candid exchanges. On sensitive issues, such as technology transfer, structured negotiations can aim for compromise solutions. Crucially, the new US administration and India&rsquo;s leadership should coordinate to set realistic expectations and reaffirm long-term commitments, so that misunderstandings do not derail progress.</li>
+      <li><strong>Build people-to-people and economic ties.</strong> Strong defence relations rest on healthy public and economic links. Both governments should facilitate defence trade and encourage industry partnerships in maintenance and production. Expanding the presence of US firms in Indian defence projects will tie the economies of both societies to security cooperation. Meanwhile, ramping up academic exchanges, defence think-tank collaborations, and military officer visits can build mutual understanding and trust at the grassroots level.</li>
+    </ul>
+    <p>
+      In conclusion, India&ndash;US defence cooperation is poised to remain a cornerstone of Indo-Pacific security. By pursuing the above measures &ndash; balancing ambition with prudence &ndash; both countries can ensure their forces operate as true &ldquo;allies in arms,&rdquo; greatly enhancing military capabilities and regional stability without the need for a formal treaty.
+    </p> 
+
+  </div>
+</div>
+
+</body>
+</html>
 
